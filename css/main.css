@@ -13,7 +13,7 @@ html {
 }
 
 *, *::before, *::after {
-	box-sizing: inherit;
+  box-sizing: inherit;
 }
 
 body {
@@ -42,8 +42,8 @@ img:nth-child(even) {
 
 @media only screen and (min-width: 38em) {
 
-img {
-  width: 32%;
+  img {
+    width: 32%;
   }
 
 }
@@ -51,7 +51,7 @@ img {
 @media only screen and (min-width: 60em) {
 
   img {
-  width: 24%;
+    width: 24%;
   }
 
   img:first-child {
